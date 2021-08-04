@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/AccountFacade.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/EventHall.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/EventHallFacade.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/BookingFacade.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/Account.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/Booking.java</file>
+            <file>file:/C:/Users/leonc/Documents/NetBeansProjects/EPDAAssignment/EPDAAssignment-ejb/src/java/model/AbstractFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
